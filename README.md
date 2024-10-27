@@ -1,19 +1,14 @@
----
-title: "FACTORES CLAVE EN LA VARIACIÓN DE PRECIOS DE COMPUTADORES PORTÁTILES: UN ESTUDIO PREDICTIVO"
-author: "Susana Aguirre, Daniel Hincapie, Marlon Atehortúa."
-lang: es
-theme: lux
-format: html
-editor: visual
----
+FACTORES CLAVE EN LA VARIACIÓN DE PRECIOS DE COMPUTADORES PORTÁTILES: UN ESTUDIO PREDICTIVO
+
+
+Susana Aguirre, Daniel Hincapie, Marlon Atehortúa.
+
 
 <div style="text-align: justify;">
 
-```{r include = FALSE}
-knitr:: opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
-```
 
-![](RLM.jpeg){fig-align="center" width="337"}
+![](RLM.jpeg)
+
 
 ## INTRODUCCIÓN
 
