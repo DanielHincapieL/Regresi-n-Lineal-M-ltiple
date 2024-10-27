@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Regresión Lineal Múltiple"
+  navbar:
+    left:
+      - href: QUARTO.qmd
+        text: QUARTO.qmd
+      - about.qmd
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+editor: visual
+
